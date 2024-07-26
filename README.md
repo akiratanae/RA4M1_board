@@ -17,13 +17,13 @@
 3. RES端子をLOWからHIに(図では外部リセットボタン)
 4. Renesas Flash Programmerをスタート
 
-## 実装例
+## 使用例
 外部からDC12V供給、USBホスト
 ![接続図](./picture/pict1.JPG)
 USBバスパワー
 ![接続図](./picture/pict2.JPG)
 
-## versatile functional control board using renesae RA4M1 microcontroller.
+## versatile functional control board using renesas RA4M1 microcontroller.
 - High performance and versatile but low cost microcontroller(R7FA4M1AB3CFM)
 - on board USB Host or Function
 - on board RS485
